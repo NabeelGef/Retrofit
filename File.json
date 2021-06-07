@@ -1,0 +1,16 @@
+{
+	"students" :[
+{
+	"name" : "ahmad",
+	"numberTel":3218870,
+	"password":"123456789",
+	"email":"ahmad@gmail.com"
+},
+{
+	"name":"samer",
+	"numberTel":3221221,
+	"password" :"987654321",
+	"email" : "samer5@gmail.com"
+}
+]
+}
