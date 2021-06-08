@@ -13,6 +13,13 @@
 	"numberTel":3221221,
 	"password" :"987654321",
 	"email" : "samer5@gmail.com"
+},
+{
+	"userId":2,
+	"name" : "nabeel",
+	"numberTel":3226268,
+	"password":"0967122753",
+	"email":"nabil@gmail.com"
 }
 ]
 }
